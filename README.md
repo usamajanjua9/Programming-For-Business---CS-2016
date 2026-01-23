@@ -1,5 +1,3 @@
----
-
 # 📘 CS2016 – Programming for Business
 
 **Spring 2026 | BS Financial Technology (FT)**
